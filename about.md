@@ -1,15 +1,87 @@
 ---
-layout: post
-title: "About"
-author: "Chester"
+layout: page
+title: About Pixyll
 permalink: /about/
+tags: about
 ---
 
-A friend of mine writes short stories. One sunny day, I asked if he wanted a website to showcase his works and he agreed. I decided to use GitHub Pages to host his site. That way he wouldn't have to buy a domain and a server.
+This Jekyll theme was crafted with <3 by [John Otander](http://johnotander.com)
+([@4lpine](https://twitter.com/4lpine)).
 
-While doing some research up on GitHub Pages, I accidentally chanced upon this _simple, blog-aware, static site generator_ called [Jekyll](https://jekyllrb.com/) which works really well with GitHub Pages. I figured it would do just fine for my friend and I set about searching for a pretty theme. I wanted a theme with a _book-ish_ vibe. Unfortunately, most of the themes were too modern. Eventually, I caved and begun working on my own theme. With the help of [Poole](https://github.com/poole/poole), the Jekyll Butler, I was able to build **Tale**.
+Checkout the [Github repository](https://github.com/johnotander/pixyll) to download it,
+request a feature, report a bug, or contribute. It's free, and open source
+([MIT](http://opensource.org/licenses/MIT)).
 
-## Contribute
-Feel free to create an issue or make a pull request on [GitHub](https://github.com/chesterhow/tale).
+Thanks to the following:
 
-Thanks for reading!
+* [BASSCSS](http://basscss.com)
+* [Jekyll](http://jekyllrb.com)
+* [Refills](http://refills.bourbon.io/)
+* [Type Scale](http://type-scale.com/)
+
+List of contributors:
+
+- Aaron S. Hawley
+- Adam Menges
+- Alex Claman
+- Alex Johnson
+- Alex Touchet
+- Allister Antosik
+- Amin Bandali
+- Anders Nissen
+- Andrea Margiovanni
+- Andrzej Ośmiałowski
+- Anuj More
+- Arvind Chembarpu
+- Assaf Gelber
+- Barry vd. Heuvel
+- Bartek Krzemień
+- Bartek Krzemień
+- Bennett Rogers
+- Brian Gaid
+- Brian Hurst
+- Chee Yeo
+- Cody Chan
+- Cristian Henrique
+- David Ernst
+- Donate Altenburger
+- Fernando Mantoan
+- Gurchet Rai
+- Harish Narayanan
+- Jehan Tremback
+- Jiaxi Gu (Isaac)
+- John Otander
+- Jordan Danielewski
+- Josh Buxton
+- Kirill Kulikov
+- Kyle Maxwell
+- Marta Sztybor
+- Martin Wagner
+- Matthew Graybosch
+- Maxim Tsoy
+- Mete Balci
+- Mike Lloyd
+- Mikhail Grachev
+- mindwind
+- Nick Rakochy
+- Nikolay Georgiev
+- Oliver Hamlet
+- Onur (e0i)
+- Praveer Gupta
+- Rassol (Karmeye)
+- Ricky Han
+- Roberto Pesando
+- Ryan Jacobs
+- Scott Martin
+- Selim Eren Bekçe
+- Shruti Rijhwani
+- Steef Hegeman
+- Tehmasp Chaudhri
+- Thomas Galvin
+- Timothy Gu
+- Tom Kraak
+- Vishnu Ks
+- Vladislav Arbatov
+- Yaroslav Yadrishnikov
+- Yee Chie Tu
+- Yeou Chien
