@@ -1,16 +1,13 @@
 ---
 layout: default
 ---
-
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](another-page).
-
 # [](#header-1)Debunking Myths & FAQs
 
 In this page, we aim to debunk myths that students **assume** and answer questions that students have with **graduate** programs, **internships** and **vacation** jobs. Most myths center around the _requirements_ that are needed to apply for such positions.
 
 The purpose of collating these questions we have found is to make this website a one stop site for any enquiries any students may have. Of course, our answers will not be 100% precise. However, we have a group of 10 graduates who have shared their experience which we summarise in the best way possible.
+
+--
 
 > ## [](#header-2)Firstly, what is the difference between Graduate, Vacation and Internship Programs?
 
@@ -18,6 +15,7 @@ A graduate program is a _recruitment_ program of about a week to few months that
 
 Vacation roles are roles open to students in their _penultimate_ year. Internships are generally offered whenever, aimed to give students exposure to a company or profession. 
 
+--
 
 > ## [](#header-2)Myth 1: I can't apply for _this_ job because my degree is not related/I am not studying in the area.
 
