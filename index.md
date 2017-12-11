@@ -6,21 +6,19 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](another-page).
 
-There should be whitespace between paragraphs.
+# [](#header-1)Debunking Myths & FAQs
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+In this page, we aim to debunk myths that students **assume** and answer questions that students have with **graduate** programs, **internships** and **vacation** jobs. Most myths center around the _requirements_ that are needed to apply for such positions and can be found in abundance throughout the internet, especially in public forums. 
 
-# [](#header-1)Header 1
+We have not set a format for this page, rather, if one should read this whole page, they should feel more confident in (1) their understanding of graduate programs, (2) whether a graduate position is right ofr them and (3) know the myths and stereotypes that are constantly conveyed about graduate jobs.
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+The purpose of collating these questions we have found is to make this website a one stop site for any enquiries any students may have. Of course, our answers will not be 100% precise. However, we have a group of 10 graduates who have shared their experience which we summarise in the best way possible.
 
-## [](#header-2)Header 2
+> ## [](#header-2)Firstly, what is the difference between Graduate, Vacation and Internship Programs?
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+A graduate program consists is a _recruitment_ program of about a week to few months that is offered by companies to graduating students of different disciplines **in their final year**. Vacation roles are roles open to students in their _penultimate_ year. Internships are generally offered whenever, aimed to give students exposure to a company or profession. 
 
-### [](#header-3)Header 3
+
 
 ```js
 // Javascript code with syntax highlighting.
@@ -30,94 +28,3 @@ var fun = function lang(l) {
 }
 ```
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### [](#header-4)Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### [](#header-5)Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### [](#header-6)Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
