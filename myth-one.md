@@ -13,6 +13,8 @@ _Nope_. In _most_ cases, your degree name will have no direct impact to your cha
 
 **Top Tip:** A university degree does not set the path for what you should apply for. Rather, companies view university as the way students learn _how_ to study rather than the end product. This is a key trait that may determine if you will be successful in the role or not. 
 
-So, if you want to work in IT consulting but don't have an IT degree? Just apply. Do you want to work in Audit but have no accounting background? No worries. All these small skills can easily and be quickly taught on the job. Firms (such as PwC, KPMG which have been confirmed) actually stress that degrees do not matter. Hopefully this provides reassurance for you.
+So, if you want to work in IT consulting but don't have an IT degree? Just apply. Do you want to work in Audit but have no accounting background? No worries. All these small skills can easily and be quickly taught on the job. 
+
+Firms (such as PwC, KPMG which have been confirmed) actually stress that degrees do not matter. Hopefully this provides reassurance for you.
 
 [back](./)
