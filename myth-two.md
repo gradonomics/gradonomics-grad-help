@@ -1,13 +1,13 @@
 ---
 layout: default
 ---
-# [](#header-1)Myth 1: Degree & Job Alignment
+# [](#header-1)Myth 2: WAM/GPA Matters
 
 --
 
-> ## [](#header-2)I can't apply for _this_ job because my degree is not related/I am not studying in the area.
+> ## [](#header-2)My WAM is too low. I shouldn't even try applying.. I have no chance!
 
-_Nope_. In _most_ cases, your degree name will have no direct impact to your chances of eligibility. The obvious exceptions include more technical roles such as Enginneering roles, IT developers etc. For other roles such as generalist programs and roles in consulting for example, **don't even hesitate to apply** if you feel your degree doesn't fit. Companies for the most part, especially the larger companies _do not care_ what you studied. 
+_We hope you don't have this approach to applying for jobs_. Our collective WAM (at Gradonomics) prove that this is not the case. With an average WAM of 61.5, min WAM of 33 and max WAM of 89, it shows that anyone with any WAM can secure any job. In fact, our lowest WAM managed to secure a job in a big 4 assurance firm.
 
 --
 
