@@ -5,11 +5,12 @@ layout: default
 
 --
 
-> ## [](#header-2)Myth 1: I can't apply for _this_ job because my degree is not related/I am not studying in the area.
+> ## [](#header-2)I can't apply for _this_ job because my degree is not related/I am not studying in the area.
 
-_Nope_. It is clear students are somewhat hesistant to apply for a job that they have not studied. For example, students believe that they shouldn't apply for an accounting job if they studied engineering because they won't be considered given they have no experience or studies in accounting. However, this is _almost_ never the case. Companies in the most part _do not care_ what you studied. In some of our experiences, we have seen students working IT who studied Commerce and have no IT experience whatsoever. We also have seen accounting graduates who studied Arts.
+_Nope_. In _most_ cases, your degree name will have no direct impact to your chances of eligibility. The obvious exceptions include more technical roles such as Enginneering roles, IT developers etc. For other roles such as generalist programs and roles in consulting for example, **don't even hesitate to apply** if you feel your degree doesn't fit. Companies for the most part, especially the larger companies _do not care_ what you studied. 
 
-Instead, companies look for _passionate_ students. A _passion_ for the role a student might be applying for. In the above example, the engineering student might show passion through their responses in the application, participating in student society in events to get exposure in accounting. The lesson to learn with this is, if you _want_ to work in the area, just _apply_. Be sure to remember however, companies will explore **why** you've applied for said job. 
+In summary,
 
-**Top Tip:** A university degree does not set the path for what you should apply for. Rather, studying for university is a way for students to _learn_ **how** to study which will be applied to work. It helps aspiring graduates _learn_ **how** to learn on the job.
+**Top Tip:** A university degree does not set the path for what you should apply for. Rather, companies view university as the way students learn _how_ to study rather than the end product. This is a key trait that may determine if you will be successful in the role or not. 
 
+So, if you want to work in IT consulting but don't have an IT degree? Just apply. Do you want to work in Audit but have no accounting background? No worries. All these small skills can easily and be quickly taught on the job. 
