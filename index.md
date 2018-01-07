@@ -2,9 +2,7 @@
 layout: default
 ---
 # [](#header-1)Contents
-<br>
-
-        
+<br>    
 <p>Frankly, those who whine about the graduate market, its competitiveness or straight out belief that they are just unhirable for various reasons, tilt us to the core. The excuses these people make can be found in our "debunking myths" section.</p>
           
 <p>We hope that the Gradanomics team, recent graduates with an average WAM of 61.5, can help you find belief and just apply for jobs. No more overthinking, time to act. You only get one chance.</p>
